@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>Keshav Kumar</title>
-</head>
-<body>
-<h1>Hey there, welcome to my website.</h1>
-</body>
-</html>
